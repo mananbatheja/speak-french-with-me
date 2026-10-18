@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://speakfrenchwithme.com/sitemap.xml
